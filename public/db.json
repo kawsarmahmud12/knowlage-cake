@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "title": "Best way to learn Code with core concept",
+        "readTime": 4,
+        "Author": "Jack Buban",
+        "avatars": "https://images.pexels.com/users/avatars/224453/andrea-piacquadio-138.jpeg?auto=compress&fit=crop&h=130&w=130&dpr=1",
+        "image":"https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "publishDate": "Mar 29 (1 Days ago)",
+        "hashTags": ["#code", "#programming"]
+    },
+    {
+        "id": "2",
+        "title": "full stack web developer roadmap",
+        "readTime": 10,
+        "Author": "John Deo",
+        "avatars": "https://images.pexels.com/users/avatars/473730/christina-morillo-435.jpeg?auto=compress&fit=crop&h=130&w=130&dpr=1",
+        "image": "https://images.pexels.com/photos/11035369/pexels-photo-11035369.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "publishDate": "Mar 25 (5 Days ago)",
+        "hashTags": ["#C++", "#programming"]
+    },
+    {
+        "id": "3",
+        "title": "Best way to job opportunity for your coding career",
+        "readTime": 3,
+        "Author": "Black Dal",
+        "avatars": "https://images.pexels.com/users/avatars/2638647/olia-danilevich-320.jpeg?auto=compress&fit=crop&h=130&w=130&dpr=1",
+        "image": "https://images.pexels.com/photos/11035360/pexels-photo-11035360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "publishDate": "Mar 20 (10 Days ago)",
+        "hashTags": ["#coding", "#JAVA"]
+    },
+    {
+        "id": "4",
+        "title": "how to start your coding journey in fiverr in 2023",
+        "readTime": 7,
+        "Author": "Fival beles",
+        "avatars": "https://images.pexels.com/users/avatars/97941/hitesh-choudhary-291.jpeg?auto=compress&fit=crop&h=130&w=130&dpr=1",
+        "image": "https://images.pexels.com/photos/4974914/pexels-photo-4974914.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "publishDate": "Mar 18 (12 Days ago)",
+        "hashTags": ["#freelancing", "#fiverr"]
+    },
+    {
+        "id": "5",
+        "title": "Top 4 Best Programming Languages To Learn in 2023",
+        "readTime": 6,
+        "Author": "Jack Buban",
+        "avatars": "https://images.pexels.com/users/avatars/340699/rahul-pandit-964.jpeg?auto=compress&fit=crop&h=130&w=130&dpr=1",
+        "image": "https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "publishDate": "Mar 29 (1 Days ago)",
+        "hashTags": ["#Javascript", "#Python", "#Go", "#Java"]
+    }
+]
